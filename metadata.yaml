@@ -1,0 +1,44 @@
+_repo: Prize-Orations-of-the-Intercollegiate-Peace-Association_30150
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Intercollegiate Peace Association
+    alias: Association, Intercollegiate Peace
+    gutenberg_agent_id: '34402'
+    url: http://www.gutenberg.org/2009/agents/34402
+  editor:
+    agent_name: Weston, Stephen Francis
+    birthdate: 1855
+    deathdate: 1935
+    gutenberg_agent_id: '34403'
+    url: http://www.gutenberg.org/2009/agents/34403
+description: ''
+gutenberg_issued: '2009-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'Peace'
+- !lcsh 'War'
+tableOfContents: Foreword / C. F. Thwing -- The Intercollegiate peace association
+  / S. F. Weston -- The conflict of war and peace / Paul Smith -- The United States
+  and universal peace / G. P. Wishard -- The evolution of world peace / L. T. Pennington
+  -- The waste of war--the wealth of peace / A. F. Young -- The hope of peace / S.
+  H. Howe -- The Roosevelt theory of war / P. V. Blanshard -- National honor and vital
+  interests / Russell Weisman -- The evolution of patriotism / P. B. Blanshard --
+  Certain phases of the peace movement / Calvert Magruder -- The assurance of peace
+  / V. M. Welsh -- Education for peace / F. J. Lyons -- National honor and peace /
+  Louis Broido -- The new nationalism and the peace movement / R. D. Lucas -- Man's
+  moral nature the hope of universal peace / Victor Morris -- The task of the twentieth
+  century / Harold Husted -- The present status of international arbitration / Bryant
+  Smith.
+title: Prize Orations of the Intercollegiate Peace Association
+url: http://www.gutenberg.org/ebooks/30150
